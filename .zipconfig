@@ -1,0 +1,6 @@
+name: 'fileUpload'
+exclude:
+ - .git
+ - test
+ - README.md
+
